@@ -1,5 +1,11 @@
-There are two folders in HDFS in the /dump/datasets/flights folder: FlightDelays and weather.
 These are comma-separated files that contain flight delay information for airports in the U.S. for the year 2008 and 2007.
+
+Location: /dump/datasets/flights/FlightDelays
+
+Files:
+    flight_delays1.csv
+    flight_delays2.csv
+    flight_delays3.csv
 
 Variable descriptions
 
